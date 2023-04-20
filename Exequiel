@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    .img{
+width: 1345px;
+height: 300px;
+
+    }
+</style>
+
+
+</head>
+<body>
+    <img src="dionosaurio google.jpg" class="img" alt=""
+</body>
+<h1 style="color:#c99f2c">LOS DINOSAURIOS</h1>
+<h1>
+Los dinosaurios fueron un grupo de reptiles que habitaron la tierra en la era mesozoica hace 245 a 65 millones de años atrás</h1>
+<br>
+<br>
+<h1>
+Tenemos distintos tipos de dinosaurios, estos son:
+</h1>
+<button onclick="location.href='file:///C:/Users/Omar/OneDrive/Escritorio/index.html/carn%C3%ADvoros.html'">Carnívoros</button>
+<button onclick="location.href='file:///C:/Users/Omar/OneDrive/Escritorio/index.html/herv%C3%ADvotros.html'">Herbívoros</button>
+</html>
